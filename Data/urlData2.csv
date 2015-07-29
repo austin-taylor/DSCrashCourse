@@ -1,0 +1,801 @@
+,changed,created,dnssec,expires,isMalicious,url
+0,2015-04-03 00:00:00,2014-04-10 00:00:00,False,2016-04-10 00:00:00,0,nuteczki.com
+1,2015-05-14 00:00:00,2015-01-31 00:00:00,False,2016-01-31 00:00:00,0,daftarcaramembuat.com
+2,,2009.06.11,,2016-06-11 00:00:00,0,price59.ru
+3,2014-11-20 03:51:55,,False,,0,bulinews.de
+4,,,,,0,game.es
+5,False,False,,False,0,mailbox.pt
+6,2014-02-05 00:00:00,: 2004-11-04T01:34:38Z,False,2015-11-04 00:00:00,0,buildyourownclone.com
+7,2014-12-31 08:08:01,2002-12-05 00:00:00,False,,0,nomura-tailor.co.jp
+8,2014-10-31 09:14:09,1996-10-22 00:00:00,False,,0,bunkei.co.jp
+9,2014-03-12 04:19:36,,False,,0,fc-heidenheim.de
+10,2015-06-14 00:00:00,2012-06-12 00:00:00,False,2016-06-12 00:00:00,0,memebucket.com
+11,2015-04-16 00:00:00,2003-05-21 00:00:00,False,2016-05-21 00:00:00,0,lphant.net
+12,2013-03-24 00:00:00,,,2018-04-05 00:00:00,0,kamnanews.ir
+13,,2010-01-17 00:00:00,False,,0,delivento.be
+14,2014-12-14 00:00:00,2014-11-29 00:00:00,False,2015-11-29 00:00:00,0,deldette.com
+15,2015-06-10 00:00:00,2015-06-04 00:00:00,False,2016-06-04 00:00:00,0,baja-todo.net
+16,2013-05-08 00:29:04,,False,,0,onlineformat.de
+17,2015-06-29 00:00:00,2013-01-07 00:00:00,False,2017-01-07 00:00:00,0,tia-tanaka.com
+18,2014-12-10 00:00:00,2006-12-16 00:00:00,False,2015-12-16 00:00:00,0,288idc.com
+19,2015-05-21 00:00:00,2012-08-08 00:00:00,,2016-08-08 00:00:00,0,hangplas.co.uk
+20,2015-05-04 00:00:00,2014-01-19 00:00:00,False,2017-01-19 00:00:00,0,teamcrop.com
+21,,,,,0,pec.coop
+22,2014-11-28 00:00:00,2014-01-17 00:00:00,False,2016-01-17 00:00:00,0,angkamain.net
+23,2015-01-24 00:00:00,2006-03-27 00:00:00,False,2016-03-27 00:00:00,0,hotspotshield.com
+24,2015-02-17 00:00:00,2014-12-11 00:00:00,False,2015-12-11 00:00:00,0,daniellealinia.com
+25,2015-03-12 18:31:42,2014-02-17 12:42:07,unsigned,2016-02-17 00:00:00,0,clencycle.com
+26,2015-02-04 00:00:00,2012-02-07 00:00:00,False,2016-02-07 00:00:00,0,livep2ptvstream.com
+27,,2014.09.09,,2015-09-09 00:00:00,0,obnovisoft1.ru
+28,2015-01-12 19:41:14,2014-07-17 16:40:35,False,2015-07-17 16:40:35,0,informacoesvariadas.org
+29,2014-09-19 00:00:00,2012-10-20 00:00:00,False,2015-10-20 00:00:00,0,panelwm.net
+30,2014-12-23 00:00:00,2013-12-13 00:00:00,False,2015-12-13 00:00:00,0,speedtour.net
+31,2015-04-14 00:00:00,2004-03-02 00:00:00,False,2016-03-02 00:00:00,0,boobsview.com
+32,,2014-01-20 06:43:53,False,2016-01-20 06:43:53,0,kristin.bg
+33,,,,,0,vid.ly
+34,,2010.04.03,,2016-04-03 00:00:00,0,nt24.ru
+35,2015-04-25 00:00:00,2011-01-27 00:00:00,False,2016-01-27 00:00:00,0,microcentertech.com
+36,2014-08-28 00:00:00,2012-08-27 00:00:00,False,2015-08-27 00:00:00,0,webnovant.com
+37,2013-07-06 00:00:00,2004-06-01 00:00:00,False,2020-06-01 00:00:00,0,deeperblue.com
+38,False,False,,False,0,cartorio15.com.br
+39,,,True,,0,chicklit.nl
+40,2013-10-24 00:00:00,2007-11-17 00:00:00,False,2021-11-17 00:00:00,0,cruise118.com
+41,2015-06-18 00:00:00,2005-07-20 00:00:00,,2016-07-20 00:00:00,0,homeaway.ca
+42,2012-08-23 00:00:00,1997-03-05 00:00:00,False,2016-03-06 00:00:00,0,kinlingrover.com
+43,2015-01-28 15:37:52,1996-03-05 21:00:00,Unsigned,2016-03-07 00:00:00,0,employs.com
+44,,2011.01.18,,2016-01-18 00:00:00,0,7sof.ru
+45,2015-01-28 18:23:36,2014-12-16 12:26:46,Unsigned,2017-01-08 00:00:00,0,samsungpromotions.com
+46,2015-04-19 00:00:00,2005-11-21 00:00:00,False,2015-11-21 00:00:00,0,gokulnath.com
+47,2015-05-06 00:00:00,2007-06-07 00:00:00,False,2017-06-07 00:00:00,0,johnhealdsblog.com
+48,2014-02-28 00:00:00,2006-03-13 00:00:00,False,2016-03-13 00:00:00,0,rosanerastore.com
+49,2015-04-30 00:00:00,2013-01-31 00:00:00,False,2017-01-31 00:00:00,0,tryanythingonceculinary.com
+50,2014-12-31 08:03:52,1999-12-22 00:00:00,False,,0,takagi-sec.co.jp
+51,2015-02-03 00:00:00,2007-01-15 00:00:00,False,2017-01-15 00:00:00,0,trefsport.com
+52,False,False,,False,0,sabiasque.pt
+53,2015-07-06 00:00:00,2008-12-09 00:00:00,False,,0,stallergenes.fr
+54,2015-03-07 00:48:36,1997-05-04 21:00:00,False,2016-05-05 21:00:00,0,russianembassy.org
+55,2015-02-06 00:00:00,2006-02-05 00:00:00,False,2016-02-05 00:00:00,0,erikalust.com
+56,,2014.10.07,,2015-10-07 00:00:00,0,tvoy-sayt.ru
+57,2015-06-29 00:00:00,2008-07-29 00:00:00,False,2016-07-29 00:00:00,0,jbiomedsci.com
+58,2014-02-05 11:50:22,1997-07-15 21:00:00,False,2015-07-15 00:00:00,0,carling.com
+59,2015-04-12 20:38:33,2014-07-29 21:22:12,False,2015-07-29 21:22:12,0,cityinnovate.org
+60,2015-03-14 00:00:00,2015-03-14 00:00:00,False,2016-03-14 00:00:00,0,gbgb66.com
+61,,,,,0,bocajuniors.com.ar
+62,2015-04-11 00:00:00,2015-04-10 00:00:00,False,2016-04-10 00:00:00,0,cdruiyao.com
+63,2015-04-04 00:00:00,2005-05-02 00:00:00,False,2016-05-02 00:00:00,0,roirocket.com
+64,2013-01-31 18:03:20,2004-11-03 15:26:50,False,2018-11-03 16:26:50,0,vvuhsd.org
+65,2015-04-11 00:00:00,2010-05-10 00:00:00,False,2016-05-10 00:00:00,0,pokemon-gl.com
+66,,,False,,0,omanlover.org
+67,2014-12-05 00:00:00,2013-12-19 00:00:00,False,2017-12-19 00:00:00,0,kapturecrm.com
+68,2014-04-05 19:17:46,1996-03-11 21:00:00,False,2019-03-12 22:00:00,0,wocn.org
+69,2014-05-21 00:00:00,2008-05-20 00:00:00,False,2016-05-20 00:00:00,0,aristotlecircle.com
+70,2014-12-14 00:00:00,20120713 #10168763,,2015-07-13 00:00:00,0,compraimportados.com.br
+71,2015-02-20 00:00:00,20120229 #9561512,,2016-03-01 00:00:00,0,dafitidev.com.br
+72,2014-03-04 13:50:34,,False,,0,stuttgartfestival.de
+73,2015-03-25 00:00:00,2013-04-24 00:00:00,,2016-04-24 00:00:00,0,beardbrand.co.uk
+74,2015.06.16 10:16:09,2011.12.07 11:21:33,False,2016.12.07 11:21:33,0,hellozdrowie.pl
+75,,,,,0,modena.co.id
+76,2015-06-15 00:00:00,2002-06-14 00:00:00,False,2016-06-14 00:00:00,0,drugs-forum.com
+77,2014-12-28 00:00:00,2011-12-27 00:00:00,False,2015-12-27 00:00:00,0,carlaaston.com
+78,2014-11-06 00:00:00,2012-12-05 00:00:00,False,2015-12-05 00:00:00,0,gsmaintelligence.com
+79,,2011.11.02,,2015-11-02 00:00:00,0,techliter.ru
+80,,2014.07.01,,2016-07-01 00:00:00,0,pm4u.ru
+81,2014-03-18 00:00:00,2011-04-13 00:00:00,,2024-04-13 00:00:00,0,buzzbee.co.kr
+82,2015-04-18 00:00:00,2004-05-19 00:00:00,False,2017-05-19 00:00:00,0,chasebenefits.com
+83,2014-11-21 00:00:00,2009-02-19 00:00:00,False,2016-02-19 00:00:00,0,jvc-media.com
+84,2011-09-28 10:14:11,1996-10-21 21:00:00,False,2016-10-20 21:00:00,0,mfri.org
+85,2014-08-20 00:44:16,2006-11-03 00:00:00,,2015-08-04 00:00:00,0,mediajobs.it
+86,2014-01-21 00:00:00,1993-02-12 00:00:00,False,2019-02-13 00:00:00,0,asdi.com
+87,False,False,,False,0,heavytools.hu
+88,2014-08-25 00:00:00,2006-09-24 00:00:00,,2016-09-24 00:00:00,0,vikrampatel.co.uk
+89,,,,2016-09-12 00:00:00,0,tlushim.co.il
+90,,,,,0,seas.es
+91,2014-07-08 00:00:00,,,2016-05-15 00:00:00,0,maes.ir
+92,2014-04-17 00:00:00,2006-06-16 00:00:00,False,2017-06-16 00:00:00,0,surffanatics.com
+93,False,False,,False,0,coldwellbanker.com.tr
+94,2015-01-28 15:59:23,2003-12-02 19:11:26,Unsigned,2019-12-03 00:00:00,0,dsportmag.com
+95,2015-07-02 12:45:28,2008-03-26 10:49:40,False,2016-03-26 00:00:00,0,differentfashion.cz
+96,2014-05-21 00:00:00,2010-06-20 00:00:00,False,2017-06-20 00:00:00,0,almanegra-sexy.com
+97,2014-09-11 00:00:00,2010-09-23 00:00:00,False,2015-09-23 00:00:00,0,prachatalk.com
+98,2015-01-05 00:00:00,,,2016-02-15 00:00:00,0,adsgood.ir
+99,2014-08-01 00:00:00,1996-11-12 00:00:00,,2016-11-12 00:00:00,0,toolbox.co.uk
+100,2015-07-09 06:34:04,,False,,0,oetinger.de
+101,,,,,0,ttconnect.gov.tt
+102,2010-07-13 00:00:00,: 2001-09-21T18:07:31Z,False,2019-09-21 00:00:00,0,infinitemassage.com
+103,2014-10-25 11:02:11,2014-07-20 15:25:04,False,2015-07-20 15:25:04,0,kinogo.me
+104,2014-12-18 00:00:00,2010-01-06 00:00:00,False,2016-01-06 00:00:00,0,uptownalmanac.com
+105,2015-06-08 00:00:00,2015-06-08 00:00:00,False,2016-06-08 00:00:00,0,sjvhry.com
+106,2015-06-05 00:00:00,2010-06-04 00:00:00,False,2016-06-04 00:00:00,0,mangoagency.com
+107,2015-02-05 00:00:00,2010-02-25 00:00:00,False,2016-02-25 00:00:00,0,ntjxj.com
+108,2014-03-07 00:00:00,2012-04-04 00:00:00,False,2016-04-04 00:00:00,0,timelessluxwatches.com
+109,2015-04-01 00:00:00,2013-04-08 00:00:00,False,2016-04-08 00:00:00,0,fortuna-slots.com
+110,2014.08.27 08:28:20,2009.08.26 12:34:47,False,2015.08.26 12:34:47,0,firmowewydruki.pl
+111,,,,,0,blogxvideo.tk
+112,2014-01-05 00:00:00,2004-09-21 00:00:00,False,2022-09-21 00:00:00,0,codecogs.com
+113,,,False,,0,roundup-tuin.nl
+114,2015-06-28 18:22:43,2013-06-27 23:53:48,True,2016-06-27 23:53:48,0,vridar.org
+115,2014-07-31 00:00:00,2008-08-26 00:00:00,False,2015-08-26 00:00:00,0,mbp-kobe.com
+116,2014-08-09 00:00:00,2004-08-08 00:00:00,False,2015-08-08 00:00:00,0,camelclips.com
+117,2014.09.22 13:19:50,2007.10.01 09:46:42,False,2015.10.01 09:46:42,0,kapelanczyk.pl
+118,,2013.03.04,,2016-03-04 00:00:00,0,windowsplayer.ru
+119,,,,,0,tss-co.ir
+120,2015-07-06 00:00:00,2011-08-01 00:00:00,False,2017-08-01 00:00:00,0,siterobot.com
+121,2015-04-28 00:00:00,2006-04-24 00:00:00,False,2016-04-24 00:00:00,0,b2bage.com
+122,2015-04-17 00:00:00,2012-04-18 00:00:00,False,2016-04-18 00:00:00,0,phpbbex.com
+123,2015-01-28 16:11:44,2005-11-06 22:44:53,Unsigned,2015-12-17 00:00:00,0,principledtechnologies.com
+124,2015-05-26 00:00:00,2000-06-17 00:00:00,False,2016-06-17 00:00:00,0,faisalkhan.com
+125,2011-12-05 00:00:00,2008-02-01 00:00:00,False,2016-02-01 00:00:00,0,qedinvestors.com
+126,False,False,,False,0,zeropaper.com.br
+127,2012-12-13 00:00:00,2001-04-16 00:00:00,,2022-04-16 00:00:00,0,aldergrovecu.ca
+128,2015-05-14 13:01:53,2011-01-15 07:01:31,False,2018-01-15 07:01:31,0,alfanous.org
+129,2015-05-01 02:34:07,2007-05-30 13:54:53,False,2016-05-30 13:54:53,0,apriezt-mkrdezign.blogspot.in
+130,2015-06-18 08:45:34,2003-03-31 09:27:18,unsigned,2016-03-31 00:00:00,0,turcopolier.typepad.com
+131,2015.01.28 17:04:25,2010.02.12 11:15:40,False,2016.02.12 11:15:40,0,czatruletka.pl
+132,2015-06-30 09:05:12,2010-06-30 00:00:00,False,2016-06-30 00:00:00,0,nishinoke.jp
+133,2013-05-20 00:00:00,1995-02-01 00:00:00,False,2020-02-02 00:00:00,0,http.com
+134,2013-10-28 00:00:00,1999-04-15 00:00:00,False,2018-04-15 00:00:00,0,thomasshaw9688.livejournal.com
+135,2011-07-22 00:00:00,2000-08-29 00:00:00,False,,0,cetsi.fr
+136,2015-05-06 00:00:00,2015-05-06 00:00:00,False,2016-05-06 00:00:00,0,ilikeyouhorny.com
+137,2013-05-28 00:00:00,2000-03-09 00:00:00,False,2016-03-09 00:00:00,0,foremostgolf.com
+138,2015-06-06 00:00:00,2002-11-04 00:00:00,False,2017-11-04 00:00:00,0,cjdby.com
+139,2010-12-15 16:28:15,2010-07-04 03:34:26,,,0,lhv.ee
+140,2014-07-29 10:18:23,,False,,0,sv-zoefelt.de
+141,2015-02-03 00:00:00,2008-04-02 00:00:00,False,2018-04-02 00:00:00,0,medicosypacientes.com
+142,2012-12-11 02:05:13,,False,,0,jamesbond.de
+143,2015-05-24 00:00:00,2013-07-13 00:00:00,False,2015-07-13 00:00:00,0,eldantesshop.com
+144,2015-04-21 00:00:00,2010-01-25 00:00:00,False,2016-01-25 00:00:00,0,branduniq.com
+145,2015-05-11 00:00:00,2010-12-29 00:00:00,False,2017-12-29 00:00:00,0,tvrohd.com
+146,2015-01-28 16:05:10,2004-10-29 14:32:34,Unsigned,2019-10-29 00:00:00,0,k12academics.com
+147,2013-08-15 00:00:00,2002-09-12 00:00:00,False,2018-09-12 00:00:00,0,theroomplace.com
+148,2014-07-27 18:44:57,2013-07-26 01:38:12,False,2015-07-26 01:38:12,0,xeford.info
+149,2014-09-03 00:00:00,2002-10-08 00:00:00,False,2015-10-08 00:00:00,0,gifts-to-india.com
+150,,2015-05-19 00:00:00,,,0,literaturitate.ro
+151,2014-08-22 00:00:00,2013-03-24 00:00:00,False,2018-03-24 00:00:00,0,nationaldiscoverychannel.com
+152,2007-04-11 00:00:00,2000-04-10 00:00:00,False,2017-04-10 00:00:00,0,belmo.com
+153,2014-12-01 00:00:00,1997-01-21 00:00:00,False,2020-01-22 00:00:00,0,davewilson.com
+154,2015-06-30 09:18:52,2009-06-11 00:00:00,False,,0,shop-551horai.co.jp
+155,2015-02-27 09:34:48,2015-02-25 18:53:05,,2017-02-25 18:53:05,0,checkouts.sg
+156,2015-05-13 00:00:00,2012-08-21 00:00:00,False,2015-08-21 00:00:00,0,phpautoclassifiedscript.com
+157,2015-02-23 00:00:00,2015-02-23 00:00:00,False,2016-02-23 00:00:00,0,softwarehat.net
+158,,2009.07.24,,2016-07-24 00:00:00,0,socengine.ru
+159,2014-01-13 21:31:12,1997-03-11 21:00:00,False,2016-03-12 21:00:00,0,publicintegrity.org
+160,2015-04-23 00:00:00,2010-07-28 00:00:00,False,2017-07-28 00:00:00,0,vanguardbschool.com
+161,2015-03-14 00:00:00,2014-04-12 00:00:00,False,2016-04-12 00:00:00,0,relicsbyrild.com
+162,2014-08-06 00:00:00,2012-06-15 00:00:00,False,2016-06-15 00:00:00,0,xihuojie.com
+163,2015-05-25 17:27:39,1999-05-25 11:09:25,unsigned,2016-05-25 00:00:00,0,bayareabmw.com
+164,2015-06-30 00:00:00,2011-01-30 00:00:00,False,2017-01-30 00:00:00,0,breakingburner.com
+165,,2015-03-05 00:00:00,,2016-03-31 00:00:00,0,cms-x.dk
+166,2012-06-27 00:00:00,1999-04-19 00:00:00,False,2022-04-19 00:00:00,0,cashusa.net
+167,2014-10-19 00:00:00,2002-11-20 00:00:00,False,2015-11-20 00:00:00,0,nikrouzan.com
+168,2014-12-19 00:00:00,2012-12-26 00:00:00,False,2015-12-26 00:00:00,0,tbsim.com
+169,2015-05-30 03:53:09,2015-05-30 03:53:08,False,2016-05-30 03:53:08,0,justplan.in
+170,2013-07-12 22:45:10,2001-07-11 14:04:22,False,2016-07-11 14:04:22,0,the-athenaeum.org
+171,2015-01-31 16:00:00,2010-01-21 16:00:00,False,2021-01-22 00:00:00,0,histoire-do.net
+172,2015-06-02 03:32:28,,False,,0,decoslide.de
+173,2014-12-09 00:00:00,2006-09-06 00:00:00,,2016-09-06 00:00:00,0,priorydirect.co.uk
+174,2015-06-05 00:00:00,2004-08-26 00:00:00,False,2024-08-26 00:00:00,0,bidmonitor.com
+175,2015-05-05 00:00:00,2014-02-26 00:00:00,False,2016-02-26 00:00:00,0,spiderlinkdirectory.com
+176,2015-04-01 00:00:00,2013-05-01 00:00:00,False,2016-05-01 00:00:00,0,linuxscoop.com
+177,2015-01-27 00:00:00,2004-02-12 00:00:00,False,2016-02-12 00:00:00,0,makura-soft.com
+178,2015-06-26 16:31:54,2013-10-12 20:00:13,False,2016-10-12 20:00:13,0,heatmap.me
+179,2015-04-12 00:00:00,2012-08-14 00:00:00,False,2020-08-14 00:00:00,0,myhuo.net
+180,,2002.11.01,,2015-11-01 00:00:00,0,b-seminar.ru
+181,,2005-05-11 00:00:00,,2016-05-19 00:00:00,0,hr.org.tw
+182,2015-07-07 00:00:00,2015-04-17 00:00:00,False,2016-04-17 00:00:00,0,zappfresh.com
+183,2014-08-04 00:00:00,2010-11-04 00:00:00,False,2016-11-04 00:00:00,0,alegriphotos.com
+184,2014-08-07 00:51:38,2000-06-02 00:00:00,,2015-07-22 00:00:00,0,nuotomaster.it
+185,2015-04-30 00:00:00,2010-02-17 00:00:00,False,2016-02-17 00:00:00,0,prioenergy.com
+186,2015-06-15 00:00:00,2000-10-04 00:00:00,,2016-04-16 00:00:00,0,leons.ca
+187,2015-03-17 00:00:00,2000-03-03 00:00:00,False,2020-03-03 00:00:00,0,smoothjazzdaily.wordpress.com
+188,2014-07-18 00:00:00,2007-11-30 00:00:00,False,2018-11-30 00:00:00,0,brainworkindia.net
+189,,2013.01.26,,2016-01-26 00:00:00,0,prometriki.ru
+190,2014-11-03 00:00:00,: 2011-10-31T15:49:50Z,False,2015-10-31 00:00:00,0,vedicastroadvice.com
+191,2014-04-22 00:00:00,2010-10-08 00:00:00,False,2015-10-20 00:00:00,0,yritystele.fi
+192,2015-02-11 00:00:00,2010-04-28 00:00:00,False,2017-04-28 00:00:00,0,kn3.net
+193,2015-02-24 00:00:00,2015-02-24 00:00:00,False,2016-02-24 00:00:00,0,total-ways.com
+194,,,,,0,cubex.solutions
+195,2014-11-20 08:22:07,2013-09-09 07:48:24,,2015-09-08 16:59:59,0,sexy4girl.biz
+196,2015-02-24 00:00:00,2002-08-11 00:00:00,False,2015-08-11 00:00:00,0,philaphans.com
+197,False,False,,False,0,faktoraruhaz.hu
+198,2015-04-23 00:00:00,2014-12-20 00:00:00,False,2015-12-20 00:00:00,0,techeradar.com
+199,2015-03-23 00:00:00,2014-04-12 00:00:00,False,2016-04-12 00:00:00,0,mindysporn.com
+200,,,True,,0,scientias.nl
+201,2014-01-20 00:00:00,,,2015-11-03 00:00:00,0,iribtv.ir
+202,2015.04.21 12:07:49,2013.05.05 08:16:48,False,2016.05.05 08:16:48,0,world-style.pl
+203,2014-09-09 00:00:00,2005-09-12 00:00:00,,2015-09-12 00:00:00,0,freshpromo.ca
+204,,,False,,0,zwoofs.nl
+205,2014-09-25 00:00:00,2008-09-15 00:00:00,False,2015-09-15 00:00:00,0,betechs.com
+206,2014-10-31 22:05:01,1999-11-30 11:19:21,False,2015-11-30 11:19:21,0,friendofthesea.org
+207,2015-05-01 00:00:00,2015-03-22 00:00:00,False,2016-03-22 00:00:00,0,galaxyoffers.com
+208,2014-11-16 00:00:00,2014-11-15 00:00:00,False,2015-11-15 00:00:00,0,nawords.com
+209,2014-03-16 00:00:00,2002-04-15 00:00:00,,2016-04-15 00:00:00,0,captureweb.co.uk
+210,2012-09-11 00:00:00,2011-06-04 00:00:00,False,2017-06-04 00:00:00,0,healthmateforever.com
+211,2015-05-14 00:00:00,20090610 #5626667,,2019-06-10 00:00:00,0,vinhosdecorte.com.br
+212,2014-08-30 21:03:51,2012-06-14 04:47:12,unsigned,2015-10-01 06:11:02,0,francetelevisions.tv
+213,2015-02-03 00:00:00,2001-02-20 00:00:00,,2017-02-20 00:00:00,0,jobpostings.ca
+214,2015-02-03 00:00:00,2010-05-27 00:00:00,False,2019-05-27 00:00:00,0,ezwebtest.com
+215,,,,,0,e-dimosio.gr
+216,2014-07-15 07:00:22,2009-12-29 11:20:26,unsigned,2015-12-29 00:00:00,0,thebellsisters.com
+217,2015-06-19 04:48:58,2005-06-24 04:33:02,False,2016-06-24 04:33:02,0,vidovdan.org
+218,2015-07-02 00:00:00,1999-04-22 00:00:00,False,2016-04-22 00:00:00,0,la-bible.net
+219,2013-07-06 00:00:00,2008-01-23 00:00:00,False,2018-01-23 00:00:00,0,bibaloo.com
+220,2014-06-27 00:00:00,2013-09-24 00:00:00,False,2017-09-24 00:00:00,0,htc-wallpaper.com
+221,2012-09-03 22:04:56,1996-07-02 21:00:00,Unsigned,2016-07-02 00:00:00,0,sidel.com
+222,2015-05-05 00:00:00,2014-02-23 00:00:00,False,2016-02-23 00:00:00,0,northwoodshumidors.com
+223,2015-02-19 00:00:00,2014-03-21 00:00:00,False,2016-03-21 00:00:00,0,platinumblackcomic.com
+224,2015-01-01 00:00:00,2010-02-18 00:00:00,False,2016-02-18 00:00:00,0,cutegaysporn.com
+225,2015-03-30 10:23:25,2002-03-29 14:05:31,False,2016-03-29 15:05:31,0,youthforhumanrights.org
+226,2015-06-05 00:00:00,2010-06-07 00:00:00,False,2016-06-07 00:00:00,0,beyondtells.com
+227,,1997-09-08 14:00:00,False,2015-12-31 14:00:00,0,art.bg
+228,,,,,0,advride.gr
+229,2014-01-20 23:25:15,2013-06-17 04:18:13,False,2016-06-17 04:18:13,0,littleblackdress.me
+230,2015-05-07 00:00:00,2007-05-14 00:00:00,,2019-05-13 00:00:00,0,mayair.com.mx
+231,2014-12-25 00:00:00,2014-01-15 00:00:00,False,2016-01-15 00:00:00,0,beautiface.net
+232,2015-03-31 02:23:02,2015-03-31 02:21:19,False,2016-03-31 00:00:00,0,shuraba-hoka.com
+233,False,False,,False,0,togocity.fr
+234,2013-10-09 23:54:50,2006-01-30 12:13:52,False,2016-01-30 12:13:52,0,eccotour.org
+235,2015-06-03 00:00:00,2013-03-19 00:00:00,False,2016-03-19 00:00:00,0,thekidscircle.com
+236,2014-12-30 00:00:00,2012-08-09 00:00:00,False,2015-08-09 00:00:00,0,tahershah.com
+237,,2011.12.23,,2015-12-23 00:00:00,0,worldmagik.ru
+238,2015-04-30 00:00:00,2012-11-27 00:00:00,False,2017-11-27 00:00:00,0,hikesandlakes.com
+239,2014-07-31 00:00:00,2009-07-30 00:00:00,False,2015-07-30 00:00:00,0,agrashoemart.com
+240,,2002.08.20,,2015-08-21 00:00:00,0,sanduny.ru
+241,2015-05-18 23:54:19,1998-06-05 21:00:00,Unsigned,2020-06-05 00:00:00,0,centauro.net
+242,,,False,,0,dq10.org
+243,2015-03-16 00:00:00,2011-03-16 00:00:00,,2017-03-16 00:00:00,0,oftenpartisan.co.uk
+244,,,False,,0,armageddon.org
+245,2014-10-01 00:00:00,2009-09-30 00:00:00,False,2015-09-30 00:00:00,0,coopstyle.com
+246,2015-06-08 00:00:00,2003-11-04 00:00:00,False,2017-11-04 00:00:00,0,hbindependent.com
+247,,2015.01.18,,2016-01-18 00:00:00,0,luchshiecasino.ru
+248,2015-05-11 00:00:00,2012-05-16 00:00:00,False,2016-05-16 00:00:00,0,sexshopboys.net
+249,,,False,,0,menstuff.org
+250,2015-02-08 00:00:00,2015-02-07 00:00:00,False,2016-02-07 00:00:00,0,momsporno.net
+251,,,,,0,bhpetrol.com.my
+252,2015-04-14 00:00:00,2010-03-30 00:00:00,False,2020-03-30 00:00:00,0,whitetrashrepairs.com
+253,2015-03-26 00:00:00,2013-03-31 00:00:00,False,2016-03-31 00:00:00,0,plasagadget.com
+254,2015-05-13 00:00:00,2015-05-13 00:00:00,False,2016-05-13 00:00:00,0,lawyer-berlin.net
+255,2015-06-05 00:00:00,2013-06-13 00:00:00,False,2016-06-13 00:00:00,0,crokes.com
+256,2014-06-03 18:08:35,2007-01-04 12:20:28,False,2018-01-04 12:20:28,0,consortiumlibrary.org
+257,2014-12-17 14:57:20,2014-12-17 14:57:19,False,2015-12-17 00:00:00,0,idolimage.net
+258,2015-04-29 00:00:00,2012-08-08 00:00:00,False,2015-08-08 00:00:00,0,hellomaheshwari.com
+259,2015-04-23 21:33:34,2011-02-04 03:23:18,Unsigned Delegation ,2016-02-04 00:00:00,0,jubini.com
+260,2014-10-01 03:24:31,2014-10-01 03:24:29,False,2015-10-01 00:00:00,0,eroan.net
+261,,1998-02-01 00:00:00,False,,0,acodev.be
+262,2015-07-01 02:08:44,2012-06-29 22:50:06,False,2016-06-29 22:50:06,0,xootmedia.me
+263,2014-09-08 23:54:43,2012-09-13 14:36:43,False,2015-09-13 00:00:00,0,mbofstevenscreek.com
+264,,,,,0,hornodelena.blogspot.com.es
+265,2015-03-09 18:04:04,2014-03-25 07:31:30,False,2016-03-25 00:00:00,0,set-list.net
+266,2015-01-28 15:09:56,2001-09-14 21:07:29,Unsigned,2016-09-15 00:00:00,0,rentafonejapan.com
+267,2014-12-12 00:00:00,2007-12-19 00:00:00,,2015-12-19 00:00:00,0,edenvauxhall.co.uk
+268,2015-04-22 00:00:00,2014-08-23 00:00:00,False,2015-08-23 00:00:00,0,thailandluxe.net
+269,2013-06-12 00:00:00,1989-11-20 00:00:00,,2015-07-31 00:00:00,0,fau.edu
+270,2015-03-23 00:00:00,2000-01-05 00:00:00,False,2016-01-05 00:00:00,0,tropicanaslim.com
+271,2015-07-05 00:00:00,2002-09-02 00:00:00,False,2016-09-02 00:00:00,0,steppenwolf-bikes.com
+272,,2000-05-24 00:00:00,,,0,piraeusbank.ro
+273,,,False,,0,cycling-manager.eu
+274,2014-11-07 00:00:00,2014-09-11 00:00:00,False,2015-09-11 00:00:00,0,kobral.com
+275,2011-07-05 00:00:00,2010-05-18 00:00:00,,2015-07-31 00:00:00,0,carrington.edu
+276,2014-08-31 21:26:17,2004-07-09 14:11:04,False,2016-07-09 00:00:00,0,trimbleoutdoors.com
+277,2014-10-30 08:52:55,2014-08-06 10:12:46,False,2015-08-06 10:12:46,0,cartin.in
+278,2015-06-27 00:00:00,2014-06-29 00:00:00,False,2016-06-29 00:00:00,0,megavectorcharacters.com
+279,,,,,0,oj.gob.gt
+280,2013-01-24 01:42:03,,False,,0,vsenet.de
+281,2014-03-29 00:00:00,2011-04-04 00:00:00,False,2017-04-04 00:00:00,0,zoemob.com
+282,2014-11-02 00:00:00,2006-11-01 00:00:00,False,2015-11-01 00:00:00,0,projectmanagement-training.net
+283,2015-05-30 00:00:00,2011-06-10 00:00:00,False,2016-06-10 00:00:00,0,fedorafans.com
+284,,,False,,0,szsvictory.cn
+285,2015-04-17 00:00:00,2015-04-17 00:00:00,False,2016-04-17 00:00:00,0,telonko.com
+286,2015-01-18 00:18:43,,,,0,businessfirstmagazine.com.au
+287,2015-01-28 15:41:22,1997-11-10 21:00:00,Unsigned,2020-11-10 00:00:00,0,jodipicoult.com
+288,2014-07-28 07:50:54,,False,,0,versand-as.de
+289,2014-08-31 09:09:04,2013-09-25 03:17:15,False,2016-09-25 03:17:15,0,cairn-int.info
+290,2015-05-18 00:00:00,2010-08-16 00:00:00,False,2016-08-16 00:00:00,0,post-survey.com
+291,2015-01-16 13:50:03,1998-04-15 21:00:00,False,2020-04-14 21:00:00,0,generals.org
+292,2015-06-08 03:56:35,2013-06-07 12:09:53,False,2016-06-07 12:09:53,0,sokindregistry.org
+293,2015-01-07 00:00:00,2015-01-07 00:00:00,False,2016-01-07 00:00:00,0,under24usd.com
+294,2014-08-23 00:00:00,2011-09-21 00:00:00,False,2015-09-21 00:00:00,0,eaexoticsafaris.com
+295,,,,,0,dochoiembe.com.vn
+296,,,,,0,go-fit.es
+297,2013-11-20 00:00:00,2011-01-18 00:00:00,False,2016-01-18 00:00:00,0,askannamoseley.com
+298,2015-06-30 09:05:12,2014-06-22 00:00:00,False,2016-06-30 00:00:00,0,isenpai.jp
+299,2015-01-26 00:00:00,2006-06-08 00:00:00,False,2023-06-08 00:00:00,0,kurtcobangsthemes.tumblr.com
+300,2005-08-04 10:58:07,2005-08-04 10:58:06,Unsigned,2015-08-04 00:00:00,0,massmatch.com
+301,2014-12-07 00:00:00,2011-12-29 00:00:00,False,2015-12-29 00:00:00,0,drivotracker.com
+302,,,,,0,phpsrbija.rs
+303,2015-06-08 00:00:00,2013-01-07 00:00:00,False,2017-01-07 00:00:00,0,motoroctane.com
+304,2013-05-28 20:00:00,2008-04-14 16:20:05,True,2016-04-14 00:00:00,0,beck-online.cz
+305,2014-12-12 00:00:00,2004-01-10 00:00:00,False,2016-01-10 00:00:00,0,victorhanson.com
+306,2014-12-05 00:00:00,2006-09-07 00:00:00,False,2015-09-07 00:00:00,0,exit-ws.com
+307,2015-05-04 00:00:00,2013-12-25 00:00:00,False,2015-12-25 00:00:00,0,kidsessays.com
+308,,,,,0,iberdrola.es
+309,2015-05-03 00:00:00,2013-11-02 00:00:00,False,2015-11-02 00:00:00,0,rebelrow.com
+310,2015-04-17 00:00:00,2008-01-10 00:00:00,False,2016-01-10 00:00:00,0,mygpticket.com
+311,,,,,0,betmedia.es
+312,2015-05-20 00:00:00,2011-05-31 00:00:00,False,2019-05-31 00:00:00,0,siandian.com
+313,2014-08-20 00:00:00,2011-08-19 00:00:00,False,2015-08-19 00:00:00,0,backlinksgreat.com
+314,2007-12-17 03:22:08,,False,,0,internetortung.de
+315,2015-05-03 00:00:00,1996-09-17 00:00:00,False,2019-09-16 00:00:00,0,whoop.com
+316,2014-09-02 00:00:00,2006-10-19 00:00:00,,2016-10-19 00:00:00,0,getresponse.co.uk
+317,False,False,,False,0,globaltransfersuk.com
+318,False,False,,False,0,privateamateurs.biz
+319,False,False,,False,0,derby-web-design-agency.co.uk
+320,False,False,,False,0,salomonrunning.com
+321,False,False,,False,0,techxform.blogspot.in
+322,False,False,,False,0,almutlaqfurniture.com
+323,False,False,,False,0,tcm-russia.ru
+324,False,False,,False,0,edwardspoonhands.com
+325,False,False,,False,0,adsensenichesites.com
+326,False,False,,False,0,isewa.com.np
+327,False,False,,False,0,onday.or.kr
+328,False,False,,False,0,dslrf.org
+329,False,False,,False,0,salescommunications.fi
+330,False,False,,False,0,pr3linking.com
+331,False,False,,False,0,jevc.gr.jp
+332,False,False,,False,0,mrrse.com
+333,False,False,,False,0,cablematic.co.uk
+334,False,False,,False,0,donghuadao.com
+335,False,False,,False,0,savingcoupons.in
+336,False,False,,False,0,grannyultra.com
+337,False,False,,False,0,themakeyourownzone.com
+338,False,False,,False,0,data24news.it
+339,False,False,,False,0,dancesupplies.com
+340,False,False,,False,0,teslamd.ru
+341,False,False,,False,0,rhythm.com
+342,False,False,,False,0,3gdyy.com
+343,False,False,,False,0,danizero.com
+344,False,False,,False,0,blinkso.com
+345,False,False,,False,0,thegraftonnews.com
+346,False,False,,False,0,kuvi.pl
+347,False,False,,False,0,wyomingtourism.org
+348,False,False,,False,0,per4m.lt
+349,False,False,,False,0,travelingvineyard.com
+350,False,False,,False,0,ffa-aero.fr
+351,False,False,,False,0,pab-wot.pl
+352,False,False,,False,0,digo.do
+353,False,False,,False,0,noahsarkwaterpark.com
+354,False,False,,False,0,digedit-labs.it
+355,False,False,,False,0,opencartchina.com
+356,False,False,,False,0,readypayonline.com
+357,False,False,,False,0,oyuncucaddesi.com
+358,False,False,,False,0,williamson.co.uk
+359,False,False,,False,0,hit-songs.in
+360,False,False,,False,0,kaspersky.co.uk
+361,False,False,,False,0,blogilates.tumblr.com
+362,False,False,,False,0,justduck.it
+363,False,False,,False,0,pkmndream.com
+364,False,False,,False,0,boyabatkoyleri.com
+365,False,False,,False,0,mytemplatestorage.com
+366,False,False,,False,0,hornyfriends.com
+367,False,False,,False,0,freehosting.net
+368,False,False,,False,0,nsf.org
+369,False,False,,False,0,fotomody.pl
+370,False,False,,False,0,hasthelargehadroncolliderdestroyedtheworldyet.com
+371,False,False,,False,0,justtryandtaste.com
+372,False,False,,False,0,kir021085.kir.jp
+373,False,False,,False,0,testprepsupport.com
+374,False,False,,False,0,casemods.ru
+375,False,False,,False,0,shinagawa-lasik.com
+376,False,False,,False,0,vyplnto.cz
+377,False,False,,False,0,keywordwatcher.jp
+378,False,False,,False,0,funnybikini.com
+379,False,False,,False,0,xn--gmqx3h262b5ug.tv
+380,False,False,,False,0,hotdesk.net
+381,False,False,,False,0,stkb.co.jp
+382,False,False,,False,0,hellpass.com
+383,False,False,,False,0,greenforest.com.ua
+384,False,False,,False,0,m-files.com
+385,False,False,,False,0,tellfree.com.br
+386,False,False,,False,0,qconshanghai.com
+387,False,False,,False,0,thundercloud.com
+388,False,False,,False,0,afrikaiszandal.hu
+389,False,False,,False,0,epizza.cc
+390,False,False,,False,0,theodysseyonline.com
+391,False,False,,False,0,360-value.com
+392,False,False,,False,0,indoqq.com
+393,False,False,,False,0,ddworld.cz
+394,False,False,,False,0,mackiteboarding.com
+395,False,False,,False,0,alphaholidaylettings.com
+396,False,False,,False,0,afs-bahrain.com
+397,False,False,,False,0,besoeglaegen.dk
+398,False,False,,False,0,inouehamuzo.com
+399,False,False,,False,0,greenmarket.com
+400,False,False,,False,1,paylpall.com
+401,False,False,,False,1,112.165.21.117
+402,False,False,,False,1,201.166.118.15
+403,False,False,,False,1,com-qc71.net
+404,False,False,,False,1,211.198.131.75
+405,False,False,,False,1,813aw0nr01jsxfj374ca.com
+406,False,False,,False,1,vipstockings.com
+407,False,False,,False,1,deluxnote.com
+408,False,False,,False,1,itoawjkp.redirectme.net
+409,False,False,,False,1,92.14.240.189
+410,False,False,,False,1,77.127.18.64
+411,False,False,,False,1,151.56.90.44
+412,False,False,,False,1,officeimage.ru
+413,False,False,,False,1,99.92.185.60
+414,False,False,,False,1,24.164.80.153
+415,False,False,,False,1,82.56.3.17
+416,False,False,,False,1,lazy-summer.com
+417,False,False,,False,1,clipboom.it
+418,False,False,,False,1,76.214.124.189
+419,False,False,,False,1,moblogue.com
+420,False,False,,False,1,sdoovo.com
+421,False,False,,False,1,messengerskinner.com
+422,False,False,,False,1,sessionops.cn
+423,False,False,,False,1,eurocasinobr.com
+424,False,False,,False,1,cmd-confirms4zj6w2vg5.org.ve
+425,False,False,,False,1,yourairlegaldrugs.com
+426,False,False,,False,1,lknkaotkis.biz
+427,False,False,,False,1,historyarrive.com
+428,False,False,,False,1,robvanessen.info
+429,False,False,,False,1,85.181.186.115
+430,False,False,,False,1,79.113.144.14
+431,False,False,,False,1,rncafe.com
+432,False,False,,False,1,79.118.255.76
+433,False,False,,False,1,84.56.44.234
+434,False,False,,False,1,com-ov63.net
+435,False,False,,False,1,cpxlife.com
+436,False,False,,False,1,alttvguide.info
+437,False,False,,False,1,61.31.165.131
+438,False,False,,False,1,74.69.116.98
+439,False,False,,False,1,122.110.110.217
+440,False,False,,False,1,121.7.199.179
+441,False,False,,False,1,gatwickaviationsociety.org.uk
+442,False,False,,False,1,qq399.atcnk.com
+443,False,False,,False,1,orncsbe.cc
+444,False,False,,False,1,welmas.ae
+445,False,False,,False,1,82.147.185.181
+446,False,False,,False,1,godaddy-up.ru
+447,False,False,,False,1,microsotf.cn
+448,False,False,,False,1,victoriaedesign.com
+449,False,False,,False,1,uctrusufjz.net
+450,False,False,,False,1,173.173.50.103
+451,False,False,,False,1,83.233.27.190
+452,False,False,,False,1,jasonisaks.com
+453,False,False,,False,1,39.131.11.209
+454,False,False,,False,1,92.47.223.21
+455,False,False,,False,1,watwareesarn.com
+456,False,False,,False,1,toshiba-t5.com
+457,False,False,,False,1,eurons.org
+458,False,False,,False,1,55900f6043109d0c94f1287fab1ef610.com
+459,False,False,,False,1,203.192.217.160
+460,False,False,,False,1,118.38.177.224
+461,False,False,,False,1,reachreflection.com
+462,False,False,,False,1,119.200.61.33
+463,False,False,,False,1,178.139.62.55
+464,False,False,,False,1,200.106.183.151
+465,False,False,,False,1,polikko.eu
+466,False,False,,False,1,bemdymu.in
+467,False,False,,False,1,hinehardy.com
+468,False,False,,False,1,xgqshgqusswzdzpyhtoedcul.com
+469,False,False,,False,1,79.24.172.140
+470,False,False,,False,1,lsjmp.com
+471,False,False,,False,1,96.13.39.37
+472,False,False,,False,1,sysguardsite.com
+473,False,False,,False,1,213.37.88.59
+474,False,False,,False,1,71.87.206.101
+475,False,False,,False,1,188.27.88.183
+476,False,False,,False,1,173.193.105.244
+477,False,False,,False,1,cmd-confirmfb88pfrmd5.web.ve
+478,False,False,,False,1,mraconsultora.com.ar
+479,False,False,,False,1,79.21.220.207
+480,False,False,,False,1,76.203.206.144
+481,False,False,,False,1,bodyclearmart.com
+482,False,False,,False,1,120.50.118.245
+483,False,False,,False,1,121.170.212.174
+484,False,False,,False,1,83.52.100.24
+485,False,False,,False,1,95.64.237.171
+486,False,False,,False,1,84.202.6.232
+487,False,False,,False,1,61.229.224.7
+488,False,False,,False,1,67.176.157.180
+489,False,False,,False,1,onguardsystem2.com
+490,False,False,,False,1,64.33.167.38
+491,False,False,,False,1,77.110.200.55
+492,False,False,,False,1,qrcoded.it
+493,False,False,,False,1,203.166.211.48
+494,False,False,,False,1,dqzvgzdtcobkfamxhypkvobjf.net
+495,False,False,,False,1,79.30.226.203
+496,False,False,,False,1,85.66.118.34
+497,False,False,,False,1,242.221.21.210
+498,False,False,,False,1,iblogger.org
+499,False,False,,False,1,79.113.8.136
+500,False,False,,False,1,111ymmk9ikml9zp63p.net.ve
+501,False,False,,False,1,188.158.14.54
+502,False,False,,False,1,85.64.46.212
+503,False,False,,False,1,114.46.133.190
+504,False,False,,False,1,24cdf6c9.pw
+505,False,False,,False,1,tanusito.com
+506,False,False,,False,1,79.41.217.4
+507,False,False,,False,1,121.136.27.19
+508,False,False,,False,1,121.151.96.113
+509,False,False,,False,1,188.121.125.216
+510,False,False,,False,1,4.86.18.43
+511,False,False,,False,1,likimonsters.com
+512,False,False,,False,1,212.45.72.94
+513,False,False,,False,1,jujejo.com
+514,False,False,,False,1,findgirt.freewww.biz
+515,False,False,,False,1,nowruzbakher.com
+516,False,False,,False,1,89.194.193.105
+517,False,False,,False,1,217.216.164.144
+518,False,False,,False,1,wcppzbippjpeydcqdapzyhh.biz
+519,False,False,,False,1,ec96042b793bc65f9f3f0b850ba4afce.org
+520,False,False,,False,1,jwztbl.info
+521,False,False,,False,1,124.12.89.251
+522,False,False,,False,1,tldcmpjukitcucuuwpdypce.net
+523,False,False,,False,1,com-ft61.net
+524,False,False,,False,1,60.52.53.254
+525,False,False,,False,1,124.28.22.173
+526,False,False,,False,1,hotchocolatefield.pw
+527,False,False,,False,1,tube8vidsiet.ddns.name
+528,False,False,,False,1,99.19.104.253
+529,False,False,,False,1,superpcmart.com
+530,False,False,,False,1,85.130.38.56
+531,False,False,,False,1,210.160.227.25
+532,False,False,,False,1,190.188.6.239
+533,False,False,,False,1,a.doktorhappy.com
+534,False,False,,False,1,lfbylxkxkgqfaduonzxvkzppbgefmkz.info
+535,False,False,,False,1,dlltechusnfotk92.cn
+536,False,False,,False,1,112.206.135.91
+537,False,False,,False,1,7usafinance.com
+538,False,False,,False,1,greeting-ecards.net
+539,False,False,,False,1,93.88.59.90
+540,False,False,,False,1,24.147.58.241
+541,False,False,,False,1,99.141.43.31
+542,False,False,,False,1,125.177.161.88
+543,False,False,,False,1,85.180.150.220
+544,False,False,,False,1,virus-securityscanner.com
+545,False,False,,False,1,yelaiju.com
+546,False,False,,False,1,190.139.213.206
+547,False,False,,False,1,98.192.112.94
+548,False,False,,False,1,201.132.73.153
+549,False,False,,False,1,203.192.235.147
+550,False,False,,False,1,87.110.54.201
+551,False,False,,False,1,92.13.49.38
+552,False,False,,False,1,ecstasyporn.net
+553,False,False,,False,1,46.118.56.180
+554,False,False,,False,1,92.224.180.77
+555,False,False,,False,1,aw-confirm-id-2004.com
+556,False,False,,False,1,oneschool.info
+557,False,False,,False,1,tubepirates.com
+558,False,False,,False,1,msnflirt.sexy.easyflirt.com
+559,False,False,,False,1,quoteandrun.ru
+560,False,False,,False,1,125.233.31.43
+561,False,False,,False,1,world-widinnovation.com
+562,False,False,,False,1,ssxjqvxpmtvq.co.uk
+563,False,False,,False,1,virusfjernere.com
+564,False,False,,False,1,124.216.103.22
+565,False,False,,False,1,voxility-gaozari.net
+566,False,False,,False,1,58.127.135.26
+567,False,False,,False,1,95.81.33.253
+568,False,False,,False,1,cmd-confirm-acc-11-qqfodxb4dg.com.ve
+569,False,False,,False,1,89.178.254.113
+570,False,False,,False,1,8.24.4.93
+571,False,False,,False,1,97.82.130.201
+572,False,False,,False,1,123.254.87.227
+573,False,False,,False,1,azarel-artwork.com
+574,False,False,,False,1,verseuable.com
+575,False,False,,False,1,fastr4.ch
+576,False,False,,False,1,google.sina.163.baidu-sogou-union.com
+577,False,False,,False,1,115.40.78.204
+578,False,False,,False,1,119.207.193.115
+579,False,False,,False,1,dsonyjiusrtiy.co.uk
+580,False,False,,False,1,vszanvxw.redirectme.net
+581,False,False,,False,1,whereinsicilia.com
+582,False,False,,False,1,83.20.52.161
+583,False,False,,False,1,216.152.200.203
+584,False,False,,False,1,82.143.216.148
+585,False,False,,False,1,76.222.240.139
+586,False,False,,False,1,eviifkles.cc
+587,False,False,,False,1,121.254.44.97
+588,False,False,,False,1,95.25.239.170
+589,False,False,,False,1,213.231.51.87
+590,False,False,,False,1,jbeegvia.ru
+591,False,False,,False,1,oiijxplrnmvgskxwaye.ru
+592,False,False,,False,1,67.160.177.219
+593,False,False,,False,1,recapblacken.biz
+594,False,False,,False,1,pimping.gangsta-paradise.rr.nu
+595,False,False,,False,1,baaoas.ru
+596,False,False,,False,1,111du2q1ofb074lwbpb.net.ve
+597,False,False,,False,1,213.129.107.7
+598,False,False,,False,1,qerfhgkadhsfukhertgrpotgjpoidfg.ce.ms
+599,False,False,,False,1,dllupdates.cn
+600,False,False,,False,1,lovedo.biz
+601,False,False,,False,1,125.137.11.169
+602,False,False,,False,1,112.150.91.195
+603,False,False,,False,1,aramaribo.new-monster.ru
+604,False,False,,False,1,dannyagan.com
+605,False,False,,False,1,59.151.207.220
+606,False,False,,False,1,bogazicivideo.com
+607,False,False,,False,1,ingenuityfoot.com
+608,False,False,,False,1,151.97.4.57
+609,False,False,,False,1,24.220.71.244
+610,False,False,,False,1,114.201.46.120
+611,False,False,,False,1,sksotstwgswkjfflnjugzpypto.com
+612,False,False,,False,1,b2834.com
+613,False,False,,False,1,178.53.12.192
+614,False,False,,False,1,151.81.14.210
+615,False,False,,False,1,lvstxpnknkpnqcgylfwws.net
+616,False,False,,False,1,drawdefinition.com
+617,False,False,,False,1,83.20.232.16
+618,False,False,,False,1,76.123.127.45
+619,False,False,,False,1,oigami1.com
+620,False,False,,False,1,188.72.96.199
+621,False,False,,False,1,renderize.net
+622,False,False,,False,1,147.156.32.228
+623,False,False,,False,1,suhatrabsinlit.net
+624,False,False,,False,1,112.166.128.163
+625,False,False,,False,1,220.66.118.214
+626,False,False,,False,1,sopyxwnaxo.com
+627,False,False,,False,1,coolelectro.ru
+628,False,False,,False,1,intelinet-secure.com
+629,False,False,,False,1,124.182.29.65
+630,False,False,,False,1,221.140.164.69
+631,False,False,,False,1,89.134.125.162
+632,False,False,,False,1,videopuhelut.com
+633,False,False,,False,1,76.217.108.26
+634,False,False,,False,1,78.164.134.205
+635,False,False,,False,1,58.168.12.55
+636,False,False,,False,1,moleculeresponsibility.com
+637,False,False,,False,1,urlbasetechd38.cn
+638,False,False,,False,1,catpughqgpfdeihpjwolcart.com
+639,False,False,,False,1,24.242.43.249
+640,False,False,,False,1,groupeflo-franchises.net
+641,False,False,,False,1,77.27.50.248
+642,False,False,,False,1,pwomneujfuknrljkrinqkozfm.info
+643,False,False,,False,1,213.37.55.254
+644,False,False,,False,1,yourusacasino.com
+645,False,False,,False,1,2008-antivirus-software.com
+646,False,False,,False,1,14210afasfda.net
+647,False,False,,False,1,piaro.com.es
+648,False,False,,False,1,76.123.244.225
+649,False,False,,False,1,68.204.26.33
+650,False,False,,False,1,concrete-scrap.ru
+651,False,False,,False,1,timechk22.com
+652,False,False,,False,1,downloadwinnermy.ru
+653,False,False,,False,1,3pkdqb.info
+654,False,False,,False,1,88.148.33.31
+655,False,False,,False,1,iroknwv.cn
+656,False,False,,False,1,83.132.243.144
+657,False,False,,False,1,168b5i43qa.info
+658,False,False,,False,1,79.116.79.190
+659,False,False,,False,1,cmd-confirmoahhp2sy5g.co.ve
+660,False,False,,False,1,mxp1072.com
+661,False,False,,False,1,115.143.217.58
+662,False,False,,False,1,92.253.5.113
+663,False,False,,False,1,93.147.112.79
+664,False,False,,False,1,epbmouhyzkqpnfse.waw.pl
+665,False,False,,False,1,draven.us
+666,False,False,,False,1,vmwmncjg.info
+667,False,False,,False,1,waydivide.com
+668,False,False,,False,1,videotooldirect.com
+669,False,False,,False,1,59.115.165.128
+670,False,False,,False,1,188.36.78.30
+671,False,False,,False,1,freemoviegroup.info
+672,False,False,,False,1,220.89.18.57
+673,False,False,,False,1,viva-play.com
+674,False,False,,False,1,187.89.29.120
+675,False,False,,False,1,jcmihq.net
+676,False,False,,False,1,ptfmuyjjwhsa.co.uk
+677,False,False,,False,1,178.213.175.89
+678,False,False,,False,1,83.165.239.124
+679,False,False,,False,1,71.59.238.189
+680,False,False,,False,1,sexyputana.ru
+681,False,False,,False,1,81.182.3.7
+682,False,False,,False,1,leichtmarjmarj.blogspot.com
+683,False,False,,False,1,e-mobility4u.com
+684,False,False,,False,1,apex108.cn
+685,False,False,,False,1,txmvnaptw.net
+686,False,False,,False,1,969cn.com
+687,False,False,,False,1,cmd-restore1-93agqxi0j9.com.ve
+688,False,False,,False,1,gnezfcsl.com
+689,False,False,,False,1,exclusivenewhacks.com
+690,False,False,,False,1,46.118.242.233
+691,False,False,,False,1,62.57.49.48
+692,False,False,,False,1,gay-bear-porn-pics.com
+693,False,False,,False,1,85.97.125.65
+694,False,False,,False,1,85.178.39.36
+695,False,False,,False,1,ciponeor.biz
+696,False,False,,False,1,com-a54.net
+697,False,False,,False,1,101.1.9.204
+698,False,False,,False,1,89.195.137.225
+699,False,False,,False,1,95.220.174.116
+700,False,False,,False,1,22.24.125.217
+701,False,False,,False,1,badthinxx.com
+702,False,False,,False,1,69.242.113.171
+703,False,False,,False,1,219.251.175.74
+704,False,False,,False,1,kjdgixsbqthypzuwdeaddfi.com
+705,False,False,,False,1,dailyhomesite.com
+706,False,False,,False,1,down1.lwdown.com
+707,False,False,,False,1,209.40.217.240
+708,False,False,,False,1,ecosdf.com
+709,False,False,,False,1,inojxiztgbuujrkkbejvdaaiuc.ru
+710,False,False,,False,1,accountsatchase.us
+711,False,False,,False,1,emmacomm.de
+712,False,False,,False,1,212.21.18.163
+713,False,False,,False,1,123.200.94.130
+714,False,False,,False,1,121.157.101.51
+715,False,False,,False,1,porn--movies.info
+716,False,False,,False,1,kor-disease.info
+717,False,False,,False,1,84.42.203.127
+718,False,False,,False,1,95.72.203.132
+719,False,False,,False,1,securepaypalupdate.com
+720,False,False,,False,1,119.70.107.152
+721,False,False,,False,1,85.130.47.176
+722,False,False,,False,1,173.28.162.255
+723,False,False,,False,1,search-cgi4-advenced-listings.com
+724,False,False,,False,1,63.18.56.79
+725,False,False,,False,1,178.66.125.146
+726,False,False,,False,1,alibits.org
+727,False,False,,False,1,93.151.88.196
+728,False,False,,False,1,92.255.155.135
+729,False,False,,False,1,118.33.24.190
+730,False,False,,False,1,baltikaredison.ru
+731,False,False,,False,1,wbdekpojmj.ws
+732,False,False,,False,1,180.234.65.30
+733,False,False,,False,1,89.138.254.91
+734,False,False,,False,1,secureupdateserver.com
+735,False,False,,False,1,79.182.107.157
+736,False,False,,False,1,68.72.44.163
+737,False,False,,False,1,servlet.md
+738,False,False,,False,1,cdpns.com
+739,False,False,,False,1,inairtoppharm.com
+740,False,False,,False,1,la-spazzolino.com
+741,False,False,,False,1,109.200.33.133
+742,False,False,,False,1,77.209.54.149
+743,False,False,,False,1,65.25.76.88
+744,False,False,,False,1,218.37.207.241
+745,False,False,,False,1,89.43.75.49
+746,False,False,,False,1,98.157.221.3
+747,False,False,,False,1,ptt-posta.com
+748,False,False,,False,1,curopuv.com
+749,False,False,,False,1,nintribat.com
+750,False,False,,False,1,89.41.41.111
+751,False,False,,False,1,93.172.135.152
+752,False,False,,False,1,vodmhmxljtmnlqwqusfyorbmrceq.com
+753,False,False,,False,1,scpainbxghmpzfmtlrccyciibljkz.com
+754,False,False,,False,1,70.241.198.129
+755,False,False,,False,1,your-seminar.ru
+756,False,False,,False,1,syfkprfltejw.org
+757,False,False,,False,1,login-osce.org
+758,False,False,,False,1,baltimorecomiccon.com
+759,False,False,,False,1,89.142.180.192
+760,False,False,,False,1,dvceidqbmtwembaamovswgdqwjf.com
+761,False,False,,False,1,utefmljdacdaw.co.uk
+762,False,False,,False,1,asaunirg.com.br
+763,False,False,,False,1,124.184.179.121
+764,False,False,,False,1,89.189.135.96
+765,False,False,,False,1,brossedesfautes.com
+766,False,False,,False,1,bonerrx.com
+767,False,False,,False,1,86.124.107.132
+768,False,False,,False,1,84.0.74.10
+769,False,False,,False,1,91.122.151.245
+770,False,False,,False,1,virustrojanscan.com
+771,False,False,,False,1,176.77.224.61
+772,False,False,,False,1,83.20.201.54
+773,False,False,,False,1,pyjbnz.biz
+774,False,False,,False,1,douate.com
+775,False,False,,False,1,71.84.240.49
+776,False,False,,False,1,80.218.51.40
+777,False,False,,False,1,121.151.102.240
+778,False,False,,False,1,95.78.87.198
+779,False,False,,False,1,184.59.193.168
+780,False,False,,False,1,125.135.184.228
+781,False,False,,False,1,mtvboard.biz
+782,False,False,,False,1,iffekrytemmbyttoqovbmtpftwk.ru
+783,False,False,,False,1,dilylkrhvpzuovgkhaqp.com
+784,False,False,,False,1,soybeq.ws
+785,False,False,,False,1,bestcaninc.info
+786,False,False,,False,1,75.50.179.178
+787,False,False,,False,1,190.248.46.190
+788,False,False,,False,1,fyvrcihvgkmr.co.uk
+789,False,False,,False,1,74.78.89.162
+790,False,False,,False,1,letfen.com
+791,False,False,,False,1,yearpromo.com
+792,False,False,,False,1,95.58.49.135
+793,False,False,,False,1,118.223.10.103
+794,False,False,,False,1,verifizieren728475.net
+795,False,False,,False,1,ptitransport.co.uk
+796,False,False,,False,1,boyportal.ru
+797,False,False,,False,1,hwmbwoms.cn
+798,False,False,,False,1,videoallin.com
+799,False,False,,False,1,85.96.17.18
